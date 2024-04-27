@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Ali Yasser Ali</h1>
-<h3 align="center">Mobile App Developer | Android</h3>
+<h3 align="center">Mobile App Developer | Front end</h3>
 
 <img align="right" src="image.gif" width = 250px/>
 

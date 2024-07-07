@@ -22,7 +22,7 @@
 
 ## 📩 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-yasser-643714269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-yasser-643714269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ali-yasser-643714269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-yasser-643714269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/13alkh?mibextid=kfxxjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/13alkh?mibextid=kfxxjd" height="30" width="40" /></a>
 </p>
 
